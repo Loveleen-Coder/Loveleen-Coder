@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Loveleen-Coder
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Full Stack Java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on website developement tasks
+- 📫 How to reach me loveleen260103@gmail.com
 - 😄 Pronouns: she/her
 
 
